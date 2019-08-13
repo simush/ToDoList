@@ -1,0 +1,38 @@
+.header {
+    background-color: rgb(34, 131, 241);
+    padding: 30px;
+    height: 300px;
+}
+
+.todo-title {
+    text-align: right;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 72px;
+    margin: 0 0 10px 0;
+}
+
+.search-form {
+    display: block;
+}
+
+.nav-Link {
+    color: #ffffff;
+    font-size: 24px;
+    margin: 10px;
+    list-style-type: none;
+}
+
+.todo-body {
+    display: flex;
+}
+
+.right-side {
+    margin-left: 30px;
+}
+
+.header-container {
+    max-width: 90%;
+    margin: 0 auto;
+    text-align: right;
+}
